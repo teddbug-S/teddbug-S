@@ -44,7 +44,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=teddbug-S&show_icons=true&theme=radical&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddbug-S&layout=compact&theme=radical&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=teddbug-S&theme=radical&hide_border=true" />
-  <img src="https://github-contribution-graph.ez4o.com/api?username=teddbug-S&background=radial-gradient(circle, rgba(32,10,100,1) 0%, rgba(21,21,21,1) 100%)&color=00e0ff&line=6efff3&point=44e8da&hide_border=true" />
+  <!-- <img src="https://github-contribution-graph.ez4o.com/api?username=teddbug-S&background=radial-gradient(circle, rgba(32,10,100,1) 0%, rgba(21,21,21,1) 100%)&color=00e0ff&line=6efff3&point=44e8da&hide_border=true" /> -->
 </p>
 
 ### 🔥 Fun & Useful Badges
