@@ -1,9 +1,9 @@
 <!-- PROFILE README -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8C43FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Tedd+Bug!;Code.+Learn.+Repeat.;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8C43FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Tedd+Bug!;Welcome+to+my+GitHub+profile;Fullstack+Software+Developer;Love+Solving+Problems%2C+Learning+New+Tech"/>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBka3E5ZnlqNnFzZDhvd2IxYzdiOThvZWVveG41ZDBrbWV0MGhwNCZjdD1n/xUPGcmH84F1jQkWtmE/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/xUPGcmH84F1jQkWtmE/giphy.gif" width="250"/>
 </p>
 
 ---
@@ -50,15 +50,8 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=teddbug-S&theme=radical&hide_border=true" />
   <br/>
-  <img src="https://github-contribution-graph.ez4o.com/api?username=teddbug-S&background=radial-gradient(circle,%20rgba(32,10,100,1)%200%,%20rgba(21,21,21,1)%20100%)&color=00e0ff&line=6efff3&point=ffffff" alt="GitHub Contribution Graph"/>
+  <img src="https://github-contribution-graph.ez4o.com/api?username=teddbug-S&background=radial-gradient(circle, rgba(32,10,100,1) 0%, rgba(21,21,21,1) 100%)&color=00e0ff&line=6efff3&point=44e8da&hide_border=true" />
 </p>
-
----
-
-### ⏰ Coding Time (via Wakatime)
-
-<!-- If you have Wakatime, replace <YOUR_WAKATIME_USERNAME> below -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=<YOUR_WAKATIME_USERNAME>&theme=radical&hide_border=true"/>
 
 ---
 
