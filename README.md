@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <b>🌍 Accra, Ghana &nbsp; | &nbsp; 🏢 Unicorn Code &nbsp; | &nbsp; 🟢 Available for hire!</b>
+  <b>🌍 Accra, Ghana &nbsp; | &nbsp; 🏢 Mount Zion &nbsp; | &nbsp; 🟢 Available for hire!</b>
 <br>
   <a href="https://twitter.com/tedd_bug"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="mailto:teddbug.dev@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -22,8 +22,8 @@
 
 - 💻 Passionate about solving problems, building systems, and learning new things!
 - ⚡ <b>It's just 24 hours in a day!</b>
-- 🔭 I work at <b>Unicorn Code</b>
-- 📫 Let's connect: <a href="mailto:teddbug.dev@gmail.com">teddbug.dev@gmail.com</a>
+- 🔭 Stargazing 🌟 
+- 📫 Let's connect: <a href="mailto:teddbug47@gmail.com">teddbug47@gmail.com</a>
 
 ---
 
